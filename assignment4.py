@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Brandon Diep
 # FILENAME: assignment4.py
-# SPECIFICATION: This program will
+# SPECIFICATION: This program will work as a search engine given documents and queries
 # FOR: CS 5180- Assignment #4
 # TIME SPENT: 1 day
 #-----------------------------------------------------------*/
